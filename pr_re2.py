@@ -8,3 +8,6 @@ def squares_list(list):
     return lst1    
 list=[1,2,3,4,5]
 print(squares_list(list))
+
+def mul(a,b):
+    a*b
