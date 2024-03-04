@@ -9,8 +9,3 @@ def squares_list(list):
 list=[1,2,3,4,5]
 print(squares_list(list))
 
-def mul(a,b):
-    a*b
-
-def div(a,b):
-    a/b    
